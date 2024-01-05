@@ -1,8 +1,14 @@
 # PROJET-FINAL-TIC
-Group ID : 19 ||
+Group ID : 19
+
 Names:
-KIBBOUA Melina/
-ZAIDI Dina/
-TAFER Abderrahmane/
-BOUKHATEM Hanna/
-TAIEB BENABBES Nesrine/
+
+KIBBOUA Melina
+
+ZAIDI Dina
+
+TAFER Abderrahmane
+
+KHOUATMI BOUKHATEM Hanna
+
+TAIEB BENABBES Nesrine
